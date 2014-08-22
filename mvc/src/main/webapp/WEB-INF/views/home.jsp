@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="todo.css">
 </head>
 <body>
-	<h2>Todo</h2>
+	<h2>Todo123</h2>
 
 	<P>The time on the server is ${serverTime}.</P>
 	<div ng-controller="TodoController">
