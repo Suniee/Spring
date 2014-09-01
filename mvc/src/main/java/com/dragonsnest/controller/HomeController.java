@@ -1,4 +1,4 @@
-package com.dragonsnest.spring;
+package com.dragonsnest.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
