@@ -1,5 +1,9 @@
 package com.dragonsnest.mapper;
 
-public interface HomeMapper {
+import org.springframework.stereotype.Repository;
 
+@Repository("homeMapper")
+public interface HomeMapper {
+	/*
+	int selectUsers();*/
 }
